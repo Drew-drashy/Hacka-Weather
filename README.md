@@ -52,7 +52,7 @@ A **React.js** application styled with **Tailwind CSS** that displays current we
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/weather-dashboard.git
+   
 Navigate to the Project Directory
 
 bash
@@ -120,6 +120,7 @@ weather-dashboard/
 ├── package.json
 ├── tailwind.config.js
 └── postcss.config.js
+
 Built With
 React.js: A JavaScript library for building user interfaces.
 Tailwind CSS: A utility-first CSS framework for rapid UI development.
@@ -143,7 +144,7 @@ Recharts for the easy-to-use charting components.
 Create React App for setting up the development environment.
 Feel free to contribute to this project by submitting issues or pull requests. For significant changes, please open an issue first to discuss what you would like to change.
 
-Contact: yourname@example.com
+Contact: drashy21461@iiitd.ac.in or drashysesodia110053@gmail.com
 
 Screenshots
 Include screenshots of your application here to showcase its functionality and design.
